@@ -3,6 +3,7 @@
 ## Construindo um Esquema Conceitual para Banco de Dados
 
 Conforme narrativa a seguir;
+
   . Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
 
   . Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
